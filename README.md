@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m muneeb <img align="right" width="240" height="150" src="https://i.postimg.cc/4xxPmQ6c/html.png">
 ## 👑 I’m Software Engineer
 
-## ✨ My Tech Stack:
+# ✨ My Tech Stack:
   ### 🎆 React JS
   ### 🎆 Express JS  <img align="right" width="240" height="150" src="https://i.postimg.cc/XYPfXS7M/node.png">
   ### 🎆 Node JS
@@ -14,7 +14,7 @@
   ### 🎆 C++
 
 
-## 💞️ I love:
+# 💞️ I love:
   ### 💞️ Coding <img align="right" width="240" height="150" src="https://i.postimg.cc/Jz38zmQ0/coding.jpg">
   ### 💞️ Problem Solving
   ### 💞️ Algorithm Designing
