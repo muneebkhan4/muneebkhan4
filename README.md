@@ -1,4 +1,4 @@
-## 👋 Hi, I’m muneeb <img align="right" width="240" height="150" src="https://i.postimg.cc/4xxPmQ6c/html.png">
+## 👋 Hi, I’m muneeb <img align="right" width="240" height="150" src="https://i.postimg.cc/4xxPmQ6c/html.png](https://i.postimg.cc/tgDLjb15/img-1-removebg-preview.png">
 ## 👑 I’m Software Engineer
 
 # ✨ My Tech Stack:
