@@ -15,7 +15,7 @@ I have worked on following Technologies</br></br>
 **- ASP . NET**</br></br>
 
 In addition to coding, I enjoy working on system designing projects and developing scalable solutions that can withstand the test of time.</br></br>
-**-System Designing - Problem Solving - Algorithm Designing - Algorithm Implementation**
+**- System Designing - Problem Solving - Algorithm Designing - Algorithm Implementation**
 
 ## ✨My Programming Languages
   [![Muneeb's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muneebkhan4&theme=blue-green)](https://github.com/muneebkhan4/github-readme-stats)</br>
