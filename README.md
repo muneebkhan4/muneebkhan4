@@ -2,6 +2,7 @@
 ## 👑 I’m Software Engineer
 
 # ✨ My Tech Stack:
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
   ### 🎆 React JS
   ### 🎆 Express JS  <img align="right" width="240" height="150" src="https://i.postimg.cc/XYPfXS7M/node.png">
   ### 🎆 Node JS
