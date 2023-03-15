@@ -4,21 +4,22 @@ I am a passionate software developer who loves to solve complex problems and cre
 
 I am a firm believer in continuous learning and I always strive to improve my skills in both algorithm design and implementation. I take pride in creating clean and efficient code and I am always looking for ways to optimize performance.
 
-## ✨My Githb Stats
-[![Muneeb's github stats](https://github-readme-stats.vercel.app/api?username=muneebkhan4&theme=blue-green)](https://github.com/muneeb4/github-readme-stats)
+## ✨My Github Stats
+[![Muneeb's github stats](https://github-readme-stats.vercel.app/api?username=muneebkhan4&theme=blue-green)](https://github.com/muneeb4/github-readme-stats) &nbsp;  [![Muneeb's github streak](https://github-readme-streak-stats.herokuapp.com/?user=muneebkhan4&theme=blue-green)](https://github.com/muneebkhan4/github-readme-streak-stats)</br></br>
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-## ✨My Programming Languages
-[![Muneeb's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muneebkhan4&theme=blue-green)](https://github.com/muneebkhan4/github-readme-stats)
-  
-## ✨My Github Steak
-  [![Muneeb's github streak](https://github-readme-streak-stats.herokuapp.com/?user=muneebkhan4&theme=blue-green)](https://github.com/muneebkhan4/github-readme-streak-stats)
-  
-  
-  ### - React JS - Express JS - Node JS - Mongo DB - ASP.NET - SQL - Graph QL - Javascript - Jave - Python - C++ </br>
-  ### - System Designing - Problem Solving - Algorithm Designing - Algorithm Implementation
+## ✨My Tech Stack
+I have worked on following Technologies</br></br>
+**- React JS - Express JS - Node JS**</br>
+**- Mongo DB - SQL - Cypher - Apache AGE (Graph Database) - Graph QL**</br>
+**- ASP . NET**</br></br>
 
-In addition to coding, I enjoy working on system designing projects and developing scalable solutions that can withstand the test of time.
+In addition to coding, I enjoy working on system designing projects and developing scalable solutions that can withstand the test of time.</br></br>
+**-System Designing - Problem Solving - Algorithm Designing - Algorithm Implementation**
+
+## ✨My Programming Languages
+  [![Muneeb's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muneebkhan4&theme=blue-green)](https://github.com/muneebkhan4/github-readme-stats)</br>
+    
 
 
 ## ✨Certificates
