@@ -1,17 +1,17 @@
-<h1 align="center">Welcome to my Github profile!<br>Hi 👋, I'm Muneeb.</h1>
+<h1 align="center">Welcome ✨ to my Github profile!<br>Hi 👋, I'm Muneeb.</h1>
 <h3 align="center">I am a passionate Software Engineer who loves to solve complex problems and create beautiful solutions using a variety of technologies.</h3>
 
 My tech stack includes React JS, Express JS, Node JS, Mongo DB, ASP.NET, SQL, Javascript, Test Automation (Selenium + Node JS), Jave, Python, and C++.
 I am a firm believer in continuous learning and I always strive to improve my skills in both algorithm design and implementation. I take pride in creating clean and efficient code and I am always looking for ways to optimize performance.
 
-<h1 align="center"> ✨My Github Stats</h1>
+<h1 align="center">My Github Stats</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebkhan4&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="muneebkhan4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muneebkhan4&theme=blue-green&show_icons=true&locale=en" alt="muneebkhan4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muneebkhan4&theme=blue-green" alt="muneebkhan4" /></p></br></br>
 
-<h1 align="center"> ✨My Tech Stack</h1>
+<h1 align="center">My Tech Stack</h1>
 I have worked on following Technologies</br>
   <h2>Technologies:</h2>
   <ul>
@@ -34,20 +34,22 @@ In addition to coding, I enjoy working on system designing projects and developi
     <li>Algorithm Implementation</li>
   </ul>
 
-<h1 align="center"> ✨My Programming Languages</h1>
+<h1 align="center">My Programming Languages</h1>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebkhan4&theme=blue-green" alt="muneebkhan4" /></p>
     
 
-<h1 align="center"> ✨Certificates</h1>
+<h1 align="center">Certificates</h1>
   <h3>👑 Hacker Rank Problem Solving</h3>
   <a href="https://ibb.co/RzR5zNr"><img src="https://i.ibb.co/2gGbgSV/tmp.png" alt="tmp" border="0"></a>
   Link: https://www.hackerrank.com/certificates/4c9bcb92f3e2
 
-## ✨My Profile Links
-**Stack Overflow:** https://stackoverflow.com/users/20972645/muneeb-khan </br>
-**Leet Code:**      https://leetcode.com/muneebkhan/</br>
-**Dev.to:**         https://dev.to/muneebkhan4</br>
-**Tech Blog**       https://learnwithmmr.blogspot.com/</br>
+<h1 align="center">My Profile Links</h1>
+<ul>
+    <li><a href="https://stackoverflow.com/users/20972645/muneeb-khan">Stack Overflow</a></li>
+    <li><a href="https://leetcode.com/muneebkhan/">Leet Code</a></li>
+    <li><a href="https://dev.to/muneebkhan4">Dev.to</a></li>
+    <li><a href="https://learnwithmmr.blogspot.com/">Tech Blog</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
