@@ -5,11 +5,9 @@ My tech stack includes React JS, Express JS, Node JS, Mongo DB, ASP.NET, SQL, Ja
 I am a firm believer in continuous learning and I always strive to improve my skills in both algorithm design and implementation. I take pride in creating clean and efficient code and I am always looking for ways to optimize performance.
 
 <h1 align="center">My Github Stats</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebkhan4&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="muneebkhan4" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muneebkhan4&theme=blue-green&show_icons=true&locale=en" alt="muneebkhan4" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muneebkhan4&theme=blue-green" alt="muneebkhan4" /></p></br></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=muneebkhan4&theme=blue-green&show_icons=true&locale=en" alt="muneebkhan4" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebkhan4&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="muneebkhan4" /></p>
+</br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muneebkhan4&theme=blue-green" alt="muneebkhan4" /></p></br></br></br></br></br></br></br></br>
 
 <h1 align="center">My Tech Stack</h1>
 I have worked on following Technologies</br>
@@ -33,10 +31,6 @@ In addition to coding, I enjoy working on system designing projects and developi
     <li>Algorithm Designing</li>
     <li>Algorithm Implementation</li>
   </ul>
-
-<h1 align="center">My Programming Languages</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneebkhan4&theme=blue-green" alt="muneebkhan4" /></p>
-    
 
 <h1 align="center">Certificates</h1>
   <h3>👑 Hacker Rank Problem Solving</h3>
