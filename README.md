@@ -40,7 +40,7 @@ In addition to coding, I enjoy working on system designing projects and developi
 
 <h1 align="center"> ✨Certificates</h1>
   <h3>👑 Hacker Rank Problem Solving</h3>
-  <p><img align="center" src="https://i.ibb.co/jHGRJry/tmp.png" alt="muneebkhan4" /></p>
+  <a href="https://ibb.co/RzR5zNr"><img src="https://i.ibb.co/2gGbgSV/tmp.png" alt="tmp" border="0"></a>
   Link: https://www.hackerrank.com/certificates/4c9bcb92f3e2
 
 ## ✨My Profile Links
