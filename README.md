@@ -1,7 +1,7 @@
 <h1 align="center">Welcome ✨ to my Github profile!<br>Hi 👋, I'm Muneeb.</h1>
 <h3 align="center">I am a passionate Software Engineer who loves to solve complex problems and create efficient solutions using a variety of technologies.</h3>
 
-My tech stack includes React JS, Express JS, Node JS, Mongo DB, ASP.NET, SQL, Javascript, Test Automation (Selenium + Node JS), Jave, Python, and C++.
+My tech stack includes React JS, Express JS, Node JS, Mongo DB, ASP.NET, SQL, Javascript, Test Automation (Selenium + Node JS), Java, Python, and C++.
 I am a firm believer in continuous learning and I always strive to improve my skills in both algorithm design and implementation. I take pride in creating clean and efficient code and I am always looking for ways to optimize performance.
 
 <h1 align="center">My Github Stats</h1>
